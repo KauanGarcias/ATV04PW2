@@ -41,7 +41,7 @@ function removerLivro(titulo)
     }
     else
     {
-        console.log(`O livro "${titulo}" não está na biblioteca.`)
+        console.log(`O livro "${titulo}" já foi removido.`)
     }
 }
 
